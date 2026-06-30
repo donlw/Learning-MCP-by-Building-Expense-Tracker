@@ -8,6 +8,7 @@ wheels/
 .python-version
 .vscode/
 uv.lock
+.gitignore
 
 # Virtual environments
 .venv
